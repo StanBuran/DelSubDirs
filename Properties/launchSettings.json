@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DelSubDir": {
+      "commandName": "Project",
+      "commandLineArgs": "/Path:\"D:\\@\\AclCalibrationRobot\" /Dir:\"bin\" \"obj\""
+    }
+  }
+}
